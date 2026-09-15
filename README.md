@@ -2,6 +2,64 @@
 
 Private Sites application for bilingual campaign drafting, evidence review, approval, outreach drafts and manual results tracking.
 
+## Visual walkthrough
+
+These examples show the **local assistant workflow and its saved outputs**. They are separate from the website's interface. Start a run in chat, provide the requested details, review the generated files, and record confirmed results. Sample copy and images still need owner and Tamil-language review before publication.
+
+### Step 1 — Create bilingual content and image posts
+
+Give the assistant an audience, topic and goal. It creates Tamil/English captions, post images, explainers and video scripts, then records the drafts in the calendar.
+
+**Example request:** “Create this week's campaign for Tamil diaspora parents and adult beginners.”
+
+<p>
+  <img src="promotion-workflow/runs/2026-09-15-first-week/images/01-parent-post.png" width="280" alt="Parent and child image post with Tamil and English headlines about sharing a first Tamil word">
+  <img src="promotion-workflow/runs/2026-09-15-first-week/images/02-hello-post.png" width="280" alt="Adult beginner image post featuring the Tamil greeting vanakkam and the English translation hello">
+  <img src="promotion-workflow/runs/2026-09-15-first-week/images/03-question-post.png" width="280" alt="Bilingual question post asking learners to choose greetings, family conversations or food">
+</p>
+
+[Read the matching captions and video script](promotion-workflow/runs/2026-09-15-first-week/CONTENT.md). These three images are standalone posts; the greeting image is a static companion to the video script.
+
+### Step 2 — Draft personalized outreach
+
+Start an outreach run. The assistant asks for missing recipient and sender details, the goal, previous contact, supporting facts, and language/tone. After your answers, it drafts the appropriate email and short-message variants.
+
+![Sample cold school email and follow-up after no reply, with the details requested at the start of the run](docs/images/02-outreach-drafts.png)
+
+The screenshot shows templates with placeholders. Follow-ups after no reply and warm follow-ups after an actual conversation are handled separately. Nothing is sent automatically.
+
+[Open the outreach workflow](promotion-workflow/runs/2026-09-15-outreach/START-HERE.md).
+
+### Step 3 — Turn source material into shareable assets
+
+Choose a one-pager, slide deck, module demo or testimonial asset. The assistant collects the relevant source files during the run, then creates the supported output for review.
+
+**School introduction sample:** a browser-viewable one-pager based on the supplied product description. The Word draft was not delivered because its required renderer was unavailable.
+
+<img src="docs/images/03-one-pager-sample.png" width="640" alt="Sample one-page miABCTamil introduction for school leaders, with intended audiences, discussion questions and a next step">
+
+**Video-to-summary test:** the supplied Tamil finance clip was transcribed locally and summarized into a one-page PDF. This is a third-party content-processing example, not miABCTamil market research or an endorsement. Unclear closing figures were omitted.
+
+<img src="docs/images/03-video-summary.png" width="640" alt="One-page summary of a Tamil video about planning monthly investment income, including source and transcription limitations">
+
+[Download the sample PDF](promotion-workflow/runs/2026-09-15-bond-video-summary/Bond-Video-One-Page-Summary.pdf) · [Read the asset-generator workflow](promotion-workflow/ASSET-GENERATOR.md).
+
+### Step 4 — Track sends, replies and conversions
+
+Tell the assistant what happened, or update the Excel workbook directly. It records confirmed events and reviews outcomes using the conversion goal you define.
+
+**Example update:** “This contact replied asking for a demo.” A reply is recorded without assuming a demo has been booked.
+
+![Outreach spreadsheet with recipient fields, sending dates, replies, conversions, follow-up dates and formula-driven rates](docs/images/04-outreach-tracker.png)
+
+The outreach tracker starts empty. Rates remain blank until outcomes are measured; no sample sends or conversions have been invented.
+
+![Content calendar containing four draft assets, their proposed dates and pending Tamil review](docs/images/04-content-calendar.png)
+
+[Open the Excel workbook](promotion-workflow/miABCTamil-Tracker.xlsx) · [Read the tracking guide](promotion-workflow/TRACKING.md).
+
+The current example has **four content drafts and no logged outreach activity**. Tracking updates come from your reports or workbook edits; there is no automatic inbox synchronization.
+
 ## Runtime
 
 - React/Vinext on Cloudflare Workers.
