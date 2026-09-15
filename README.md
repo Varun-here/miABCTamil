@@ -7,8 +7,8 @@ Private Sites application for bilingual campaign drafting, evidence review, appr
 - React/Vinext on Cloudflare Workers.
 - D1 `DB` persists each signed-in user's workspace. Optimistic revisions prevent stale-tab overwrites.
 - Private Sites access protects the app. API routes also require the platform-provided signed-in identity and check mutation origins.
-- Claude Messages API generation uses a user-entered API key held only in client memory for the open page and passed to the server per request. It is never stored in D1, browser storage or source.
-- A Claude account/key is required for live generation. Starter drafts and editing work without it.
+- Claude Messages API generation uses the owner’s server-side ANTHROPIC_API_KEY secret. Viewers never enter or receive the key.
+- The owner must configure the server secret before live generation is available. Starter drafts and editing work without it.
 - No external publishing or email sending is implemented. Publication records document actions the user performs elsewhere.
 
 ## Workflow
@@ -24,3 +24,18 @@ Install with the locked `install:ci` script. Start `npm run dev`. Generate migra
 TypeScript and production build passed. Local API tests verified authentication, persistence, stale writes, approval gates, version changes, published-content locking and numeric zero preservation. Browser checks verified save feedback, disabled approval, mobile navigation, and WebMCP draft read/open behavior including invalid IDs.
 
 Live Claude generation has not been tested with a paid key. The app handles missing keys, rejected keys, rate limits, unavailable models, timeouts and malformed model output. Tamil starter content still requires fluent review.
+
+## Owner-only AI setup
+
+For local development, fill ANTHROPIC_API_KEY in the ignored .env file and restart the server. Do not prefix secrets with VITE_ or NEXT_PUBLIC_. ANTHROPIC_MODEL is optional. For hosting, configure ANTHROPIC_API_KEY as a secret in the hosting environment, then deploy. No viewer-facing key form exists. Never commit the actual .env file.
+
+## Local promotion workflow
+
+Open [promotion-workflow/START-HERE.md](promotion-workflow/START-HERE.md) for the on-request assistant workflow:
+
+- Bilingual content and generated image posts.
+- Outreach drafts with recipient intake when an outreach run starts.
+- Asset-generation instructions, examples, and video-summary output.
+- [Excel tracker](promotion-workflow/miABCTamil-Tracker.xlsx) for confirmed sends, replies and conversions.
+
+Ask your assistant to read [the workflow skill](promotion-workflow/miabctamil-promotion/SKILL.md), then give it a task. Generated files are stored in `promotion-workflow/runs/`. This workflow is separate from the website; it does not send emails, publish posts, or execute weekly without a request. The source machine's transcription dependencies and downloaded models are local workspace tools and are not included in this repository.

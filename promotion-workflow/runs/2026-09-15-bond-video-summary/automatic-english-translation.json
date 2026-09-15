@@ -1,0 +1,84 @@
+{
+  "model": "small",
+  "language": "ta",
+  "language_probability": 0.9882649183273315,
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.0,
+      "text": " I have to get monthly income for 30,000 rupees a month.",
+      "avg_logprob": -0.5607492202470282,
+      "no_speech_prob": 0.11020499467849731
+    },
+    {
+      "start": 3.0,
+      "end": 8.0,
+      "text": " For that, I am asking him which kind of investment I want to plan.",
+      "avg_logprob": -0.5607492202470282,
+      "no_speech_prob": 0.11020499467849731
+    },
+    {
+      "start": 8.0,
+      "end": 10.0,
+      "text": " I am only saying this question.",
+      "avg_logprob": -0.5607492202470282,
+      "no_speech_prob": 0.11020499467849731
+    },
+    {
+      "start": 10.0,
+      "end": 13.0,
+      "text": " If you get monthly income for 30,000 rupees,",
+      "avg_logprob": -0.5607492202470282,
+      "no_speech_prob": 0.11020499467849731
+    },
+    {
+      "start": 13.0,
+      "end": 16.0,
+      "text": " you have to average for 8 to 10 percent.",
+      "avg_logprob": -0.5607492202470282,
+      "no_speech_prob": 0.11020499467849731
+    },
+    {
+      "start": 16.0,
+      "end": 18.0,
+      "text": " This is the interest.",
+      "avg_logprob": -0.5607492202470282,
+      "no_speech_prob": 0.11020499467849731
+    },
+    {
+      "start": 18.0,
+      "end": 21.0,
+      "text": " You have to see the principle and bond with it.",
+      "avg_logprob": -0.5607492202470282,
+      "no_speech_prob": 0.11020499467849731
+    },
+    {
+      "start": 21.0,
+      "end": 24.0,
+      "text": " If you assume this is 8 to 9 percent.",
+      "avg_logprob": -0.5607492202470282,
+      "no_speech_prob": 0.11020499467849731
+    },
+    {
+      "start": 24.0,
+      "end": 27.0,
+      "text": " So, for 1 year, 2 lakhs is 40,000 rupees.",
+      "avg_logprob": -0.5607492202470282,
+      "no_speech_prob": 0.11020499467849731
+    },
+    {
+      "start": 27.0,
+      "end": 29.0,
+      "text": " It is 8%",
+      "avg_logprob": -1.0145267921945322,
+      "no_speech_prob": 0.47551611065864563
+    },
+    {
+      "start": 29.0,
+      "end": 32.0,
+      "text": " If it is 100%, then the money will come to the bond",
+      "avg_logprob": -1.0145267921945322,
+      "no_speech_prob": 0.47551611065864563
+    }
+  ]
+}

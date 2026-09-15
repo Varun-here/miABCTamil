@@ -1,0 +1,23 @@
+# Planning for monthly investment income
+
+In this short Tamil interview excerpt, a viewer asks how to plan investments to receive INR 30,000 each month. The response focuses on relating the desired income to an assumed interest rate and the amount of capital invested.
+
+## The question being answered
+
+The opening question is about generating a recurring monthly income of INR 30,000. The speaker frames the response around that specific income objective. The clip displays a BOND graphic, placing the discussion in a bond-investment context.
+
+## The speaker's approach
+
+The response discusses an assumed interest range of roughly 8% to 10%, then refers to an 8% to 9% assumption. The speaker explains that the income requirement and interest assumption should be used to work out the principal, meaning the amount of money invested. These percentages are assumptions mentioned in the clip, not independently verified current offers.
+
+## Main takeaway
+
+The central idea is to start with the desired income and work backward to the capital required. The excerpt presents a way of framing the calculation; it does not establish that a particular investment will deliver the stated monthly amount.
+
+## What this excerpt does not establish
+
+The available excerpt does not identify a verified bond offer, an issuer, or a complete investment plan. It also does not establish the tax treatment, payment schedule or suitability for a particular investor. The final numerical example could not be transcribed reliably, so no closing principal amount or additional income figure is reproduced here.
+
+Source: owner-supplied videoplayback.mp4, a 32-second interview clip displaying Money Pechu branding. Opening question: approximately 0-8 seconds; rate and principal discussion: approximately 10-24 seconds.
+
+Prepared from local automated Tamil transcription and an English translation. Summary of the speaker's discussion, not investment advice or independently verified market analysis.
