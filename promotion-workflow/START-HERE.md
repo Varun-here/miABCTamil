@@ -17,6 +17,7 @@ You can also ask:
 ## Your working files
 
 - `BRAND-BRIEF.md`: known facts and details to add once.
+- `BRAND-STYLE.md` and `brand-tokens.json`: the owner-selected flyer/demo design, based on the supplied Tamil PDFs.
 - `INPUT-BRIEF.md`: optional short form for any request.
 - `ASSET-GENERATOR.md`: start an asset run for one-pagers, slides, actual module demos or approved testimonials.
 - `sources/`: save real product materials, deck, market analysis, screenshots and approved quotes here.

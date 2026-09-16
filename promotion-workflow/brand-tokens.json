@@ -1,0 +1,23 @@
+{
+  "reference_date": "2026-09-16",
+  "scope": ["flyers", "demo sheets", "demo video title and caption cards"],
+  "colors": {
+    "burgundyDeep": "#4A1F30",
+    "burgundy": "#632D43",
+    "ink": "#3A1F2B",
+    "mobileAccent": "#EB2178",
+    "mobileBadgeText": "#C01364",
+    "mobileBadgeFill": "#FFE1EC",
+    "border": "#F4E4EA",
+    "webAccent": "#2E7D6B",
+    "webBadgeText": "#1C6B58",
+    "infoFill": "#E6F5F0",
+    "labelFill": "#FFB64D",
+    "body": "#6D5760",
+    "muted": "#93707D",
+    "background": "#FFFFFF"
+  },
+  "fonts": {"tamil": "Nirmala UI", "latin": "Segoe UI"},
+  "logo": "Reuse approved MiABC artwork from the supplied references",
+  "layout": {"flyer": "two-column role cards", "demo": "stacked role cards"}
+}

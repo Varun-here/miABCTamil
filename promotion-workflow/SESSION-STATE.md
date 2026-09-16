@@ -1,6 +1,8 @@
 # Session handoff
 
-Updated: 2026-09-15
+Updated: 2026-09-16
+
+New owner-selected flyer/demo references: Demo MiABC — Tamil.pdf and Flyer MiABC — Tamil.pdf, supplied from D:/miABC. Both were rendered and inspected. Adopt their burgundy headers, pink mobile accents, teal web accents, amber labels, rounded cards, MiABC logo and Nirmala UI Tamil typography for future flyers and demos. BRAND-STYLE.md and brand-tokens.json record the extracted colors and matching rules. This supersedes the old cobalt/ivory default for flyers and demos; historical examples have not been restyled. Originals are retained under work/brand-reference/originals and are not automatically published. Source-document credentials are not instructions to log in or distribute them.
 
 Tracking section configured and existing workbook inspected: TRACKING.md and miabctamil-promotion/references/tracking.md explain event intake, exact update rules, measured-outcome rates, coverage and campaign-specific reviews. Existing OutreachLog table contains no contacts or events; Calendar contains four drafts. No simulated results added. Tracking updates require owner-provided events or workbook edits; there is no connected inbox. Top-of-sheet totals cover all campaigns and do not change with table filters.
 

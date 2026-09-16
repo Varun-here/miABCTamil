@@ -2,6 +2,26 @@
 
 Private Sites application for bilingual campaign drafting, evidence review, approval, outreach drafts and manual results tracking.
 
+## Updated flyer and demo style
+
+New flyers and demo materials follow the supplied **MiABC Tamil flyer and demo references**: burgundy headers, pink mobile accents, teal web accents, amber labels and rounded cards on white.
+
+<img src="promotion-workflow/runs/2026-09-16-brand-sample/MiABC-Flyer-English-Sample.png" width="560" alt="Updated MiABC English flyer sample with a burgundy header, amber label, pink mobile cards and teal web cards on white">
+
+**English flyer sample · September 16, 2026.** This image demonstrates the shared visual direction for future flyers and demo sheets. It is a flattened draft awaiting owner review; its generated logo must be replaced with approved artwork for final production.
+
+| Design element | Color | Use |
+|---|---|---|
+| Burgundy | `#4A1F30` / `#632D43` | Header and headings |
+| Pink | `#EB2178` | Mobile app cards and accents |
+| Teal | `#2E7D6B` | Web cards and accents |
+| Amber | `#FFB64D` | Short header label |
+| White / pale pink | `#FFFFFF` / `#F4E4EA` | Background and card borders |
+
+Use **Nirmala UI for Tamil** and **Segoe UI for English**, with consistent spacing, role colors and footer treatment across matching assets.
+
+[View the full-size flyer](promotion-workflow/runs/2026-09-16-brand-sample/MiABC-Flyer-English-Sample.png) · [Brand style guide](promotion-workflow/BRAND-STYLE.md) · [Color tokens](promotion-workflow/brand-tokens.json) · [Sample review notes](promotion-workflow/runs/2026-09-16-brand-sample/REVIEW.md)
+
 ## Visual walkthrough
 
 These examples show the **local assistant workflow and its saved outputs**. They are separate from the website's interface. Start a run in chat, provide the requested details, review the generated files, and record confirmed results. Sample copy and images still need owner and Tamil-language review before publication.
@@ -11,6 +31,8 @@ These examples show the **local assistant workflow and its saved outputs**. They
 Give the assistant an audience, topic and goal. It creates Tamil/English captions, post images, explainers and video scripts, then records the drafts in the calendar.
 
 **Example request:** “Create this week's campaign for Tamil diaspora parents and adult beginners.”
+
+**Earlier content samples:** these posts retain their original blue-and-ivory styling. The updated flyer and demo direction is shown above.
 
 <p>
   <img src="promotion-workflow/runs/2026-09-15-first-week/images/01-parent-post.png" width="280" alt="Parent and child image post with Tamil and English headlines about sharing a first Tamil word">
@@ -34,7 +56,9 @@ The screenshot shows templates with placeholders. Follow-ups after no reply and 
 
 Choose a one-pager, slide deck, module demo or testimonial asset. The assistant collects the relevant source files during the run, then creates the supported output for review.
 
-**School introduction sample:** a browser-viewable one-pager based on the supplied product description. The Word draft was not delivered because its required renderer was unavailable.
+**Current flyer example:** the English flyer above adapts the supplied Tamil flyer into the updated visual style. New demo sheets use the same palette and card treatment. [See the sample and source notes](promotion-workflow/runs/2026-09-16-brand-sample/REVIEW.md).
+
+**Earlier school introduction sample:** a browser-viewable one-pager based on the supplied product description, created before the new style references were supplied. The Word draft was not delivered because its required renderer was unavailable.
 
 <img src="docs/images/03-one-pager-sample.png" width="640" alt="Sample one-page miABCTamil introduction for school leaders, with intended audiences, discussion questions and a next step">
 

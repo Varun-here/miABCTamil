@@ -12,7 +12,7 @@ For unclear speech or numbers, compare recognition passes and preserve uncertain
 
 Infer the requested asset when clear. Otherwise offer: one-pager, slide deck, module demo video, or testimonial graphic. Ask only for missing inputs in a compact intake, then wait for required source material. Reuse the latest brand brief, supplied sources, sender details and prior decisions.
 
-Collect the audience, purpose, desired call to action, language and output format. Request source files by ordinary chat when attachments are needed; do not use a text-only question tool to request uploads. Optional branding can use the existing cobalt/ivory campaign style if no approved brand kit exists; identify it as a design default, not official brand guidelines.
+Collect the audience, purpose, desired call to action, language and output format. Request source files by ordinary chat when attachments are needed; do not use a text-only question tool to request uploads. For flyers and demo outputs, read BRAND-STYLE.md and brand-tokens.json from the working folder and inspect the owner's Demo MiABC — Tamil.pdf and Flyer MiABC — Tamil.pdf references. Match their burgundy/pink/teal/amber palette, MiABC logo, Tamil typography and rounded card layouts. Keep matching flyers and demos visually consistent. These supplied references replace the earlier cobalt/ivory default for this scope. Preserve existing product UI colors in actual demo recordings.
 
 Do not turn absent product evidence into fabricated copy. If one requested asset has enough sources and another does not, complete the supported asset and identify what the other requires. A request for a generic template or layout example may proceed without real product sources, clearly labeled as a template.
 
