@@ -1,11 +1,11 @@
-# MiABC flyer and demo style
+# MiABC content, flyer and demo style
 
 Owner-selected visual references, supplied September 16, 2026:
 
 - Demo MiABC — Tamil.pdf
 - Flyer MiABC — Tamil.pdf
 
-These PDFs govern new flyers, demo sheets and demo title/caption cards. Both outputs must look like the same family. This replaces the earlier cobalt-and-ivory design default for flyers and demos. Existing files are historical samples until explicitly revised.
+These PDFs govern bilingual social image posts, new flyers, demo sheets and demo title/caption cards. Both outputs must look like the same family. This replaces the earlier cobalt-and-ivory design default for social image posts, flyers and demos. Earlier files remain historical samples; the September 16 bilingual posts use the updated style.
 
 ## Color system
 
@@ -64,3 +64,7 @@ For video demos, carry the same palette, logo, typography and rounded caption pa
 Compare the finished flyer and demo against both references side by side. Check color roles, logo shape, card geometry, spacing, Tamil legibility, correct links/QRs and consistent footer treatment. A design match does not establish product outcomes or pilot claims.
 
 Original references are retained locally under work/brand-reference/originals/ in the source workspace. They are not automatically copied into the public repository or workflow ZIP. If working elsewhere, request the original PDFs or approved logo assets when needed for a faithful match.
+
+## Bilingual social image posts
+
+Use the same burgundy, pink, teal and amber palette for every new Tamil/English image post. Adapt the rounded-card layout to square social formats with large Tamil headlines, readable English translations and a clear CTA. Use clean flat illustrations and white backgrounds. Keep the established mobile/web color meaning when showing those roles; otherwise use pink and teal as decorative accents. Preserve source-backed copy, check Tamil glyphs, and request fluent Tamil review before publication. The September 16 restyled post set is in runs/2026-09-16-bilingual-style/.

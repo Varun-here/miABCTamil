@@ -2,9 +2,9 @@
 
 Private Sites application for bilingual campaign drafting, evidence review, approval, outreach drafts and manual results tracking.
 
-## Updated flyer and demo style
+## Updated content, flyer and demo style
 
-New flyers and demo materials follow the supplied **MiABC Tamil flyer and demo references**: burgundy headers, pink mobile accents, teal web accents, amber labels and rounded cards on white.
+Bilingual image posts, new flyers and demo materials follow the supplied **MiABC Tamil flyer and demo references**: burgundy headers, pink mobile accents, teal web accents, amber labels and rounded cards on white.
 
 <img src="promotion-workflow/runs/2026-09-16-brand-sample/MiABC-Flyer-English-Sample.png" width="560" alt="Updated MiABC English flyer sample with a burgundy header, amber label, pink mobile cards and teal web cards on white">
 
@@ -32,12 +32,12 @@ Give the assistant an audience, topic and goal. It creates Tamil/English caption
 
 **Example request:** “Create this week's campaign for Tamil diaspora parents and adult beginners.”
 
-**Earlier content samples:** these posts retain their original blue-and-ivory styling. The updated flyer and demo direction is shown above.
+**Updated bilingual samples:** all three posts now use the shared burgundy, pink, teal and amber design direction. [Review notes and generation prompts](promotion-workflow/runs/2026-09-16-bilingual-style/REVIEW.md).
 
 <p>
-  <img src="promotion-workflow/runs/2026-09-15-first-week/images/01-parent-post.png" width="280" alt="Parent and child image post with Tamil and English headlines about sharing a first Tamil word">
-  <img src="promotion-workflow/runs/2026-09-15-first-week/images/02-hello-post.png" width="280" alt="Adult beginner image post featuring the Tamil greeting vanakkam and the English translation hello">
-  <img src="promotion-workflow/runs/2026-09-15-first-week/images/03-question-post.png" width="280" alt="Bilingual question post asking learners to choose greetings, family conversations or food">
+  <img src="promotion-workflow/runs/2026-09-16-bilingual-style/01-parent-post.png" width="280" alt="Parent and child image post with Tamil and English headlines about sharing a first Tamil word">
+  <img src="promotion-workflow/runs/2026-09-16-bilingual-style/02-hello-post.png" width="280" alt="Adult beginner image post featuring the Tamil greeting vanakkam and the English translation hello">
+  <img src="promotion-workflow/runs/2026-09-16-bilingual-style/03-question-post.png" width="280" alt="Bilingual question post asking learners to choose greetings, family conversations or food">
 </p>
 
 [Read the matching captions and video script](promotion-workflow/runs/2026-09-15-first-week/CONTENT.md). These three images are standalone posts; the greeting image is a static companion to the video script.

@@ -2,6 +2,8 @@
 
 ## Weekly content
 
+For bilingual image posts, read BRAND-STYLE.md and brand-tokens.json in the workflow folder. Use the owner-selected burgundy/pink/teal/amber style, rounded cards, white backgrounds and clean flat illustrations. Match the flyer/demo family and inspect the latest samples in runs/2026-09-16-bilingual-style/. Keep Tamil and English legible and preserve review status.
+
 Input: week, goal, audience, channels, source materials, CTA. If omitted, propose three posts across seven days, split between parents and adult beginners, plus one short video script. Leave dates unscheduled until a week is established. Do not invent an app URL.
 
 Deliver a calendar with asset ID, date, audience, channel, purpose, format, source IDs, CTA, draft path and review status. Provide complete Tamil and English captions, parent-facing explainer copy and scene-by-scene short video scripts. For video scripts include duration, visual, narration and on-screen text. Match language naturally instead of translating word for word. Keep source-dependent claims separate until resolved.
