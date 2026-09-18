@@ -2,7 +2,7 @@
 
 Private Sites application for bilingual campaign drafting, evidence review, approval, outreach drafts and manual results tracking.
 
-## Website design — September 18, 2026
+## Website design 
 
 The locally previewed website now follows [miabc.online](https://miabc.online): the MiABC logo, Nunito English typography with Nirmala UI for Tamil, deep plum backgrounds, pink buttons, orange highlights, and rounded white and pastel cards. The owner approved this visual direction.
 
