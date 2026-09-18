@@ -2,6 +2,16 @@
 
 Private Sites application for bilingual campaign drafting, evidence review, approval, outreach drafts and manual results tracking.
 
+## Website design — September 18, 2026
+
+The locally previewed website now follows [miabc.online](https://miabc.online): the MiABC logo, Nunito English typography with Nirmala UI for Tamil, deep plum backgrounds, pink buttons, orange highlights, and rounded white and pastel cards. The owner approved this visual direction.
+
+![MiABCTamil website preview with the MiABC logo, plum background, orange campaign heading, pink buttons and rounded cards](docs/images/05-website-style.png)
+
+This screenshot shows the local preview before sign-in. Saved campaign controls require authentication. It confirms the visual design, not a public deployment or a successful live AI generation test. The website palette uses plum `#632D43`, pink `#EB2178`, orange `#FF9D2E` and pastel pink `#FFDBE6`; the primary action uses the darker pink `#C41361`.
+
+The flyer and bilingual post examples below describe promotional assets; their format-specific accents and typography may differ from the website.
+
 ## Updated content, flyer and demo style
 
 Bilingual image posts, new flyers and demo materials follow the supplied **MiABC Tamil flyer and demo references**: burgundy headers, pink mobile accents, teal web accents, amber labels and rounded cards on white.
